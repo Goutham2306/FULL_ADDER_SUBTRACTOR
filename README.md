@@ -74,7 +74,7 @@ endmodule
 
 
 **Output Timing Waveform**
-![318102877-543bcd05-4a21-4cda-b9e5-63ff5d976bb5](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/021734d5-d96c-4424-9610-47baf43146c4)
+![image](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/7371718c-ca0d-4cc9-b300-f10376af85a8)
 
 
 **Result:**
