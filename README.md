@@ -70,11 +70,15 @@ endmodule
 ```
 
 **RTL Schematic**
-![318102395-698fa788-653c-45dd-8120-1d6149e69d0f](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/9668400a-d417-4ec2-9af5-c1b2a30cb8ca)
+![328845010-b0f47c65-eff7-4558-9633-26af1fd2957f](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/88393b3b-235c-48f1-9d8a-d68b8f3d4ba2)
+
 
 
 **Output Timing Waveform**
-![image](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/7371718c-ca0d-4cc9-b300-f10376af85a8)
+
+
+![318102877-543bcd05-4a21-4cda-b9e5-63ff5d976bb5](https://github.com/Goutham2306/FULL_ADDER_SUBTRACTOR/assets/138971154/ea365322-6e17-4d47-a568-a30d9814fa40)
+
 
 
 **Result:**
