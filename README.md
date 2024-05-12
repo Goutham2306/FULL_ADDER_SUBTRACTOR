@@ -55,7 +55,7 @@ Borrow out = A'Bin + A'B + BBin
 5.For different input combinations generate the timing diagram.
 
 **Program:**
-
+ Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 ### Developed by: Goutham.K
 ### RegisterNumber: 212223110019
 ```
